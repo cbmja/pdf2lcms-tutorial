@@ -51,6 +51,12 @@
 ## 9. 시험지 영역 확대/축소
 - 시험지 영역을 확대하거나 축소할 수 있는 기능을 제공합니다.
 
+
+![create1](https://github.com/user-attachments/assets/6b7201c0-b446-4774-9278-56ee81642f04)
+
+![create2](https://github.com/user-attachments/assets/f39af324-4eee-4672-bd7a-405f73dd9b1a)
+
+
 ## 10. Layout / Element 생성
 - **Layout** 먼저 생성 후 **Element**를 생성하여 그룹을 지정할 수 있습니다.
 - **Element**를 먼저 생성한 후 **Layout**을 생성할 수 있습니다.

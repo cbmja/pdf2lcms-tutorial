@@ -1,9 +1,8 @@
 # PDF2LCMS Tutorial
 
 
-### PDF 파일 업로드 화면
-
 ![001](https://github.com/user-attachments/assets/75116c0d-b719-4a82-a30f-6782c9521ef0)
+
 
 ## 1. PDF 파일 목록 이동
 - 업로드된 PDF 파일 목록을 관리합니다.
@@ -26,7 +25,7 @@
 
 
 
-### PDF 파일 페이지 및 편집 화면
+
 
 ![002](https://github.com/user-attachments/assets/e185ec85-b05c-43aa-986b-3569a5abb2a5)
 
@@ -59,11 +58,6 @@
 ## 11. Element 영역 나타내기/사라지기
 - **Element** 영역을 보여주거나 숨길 수 있는 기능을 제공합니다.
 
----
-
-## 화면 미리보기
 
 
 
-
----
